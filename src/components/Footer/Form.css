@@ -1,0 +1,43 @@
+.formgrp1.form-group {
+  position: absolute;
+}
+.formgrp2.form-group {
+  padding-left: 160px;
+  padding-top: 30px;
+}
+.formgrp3 {
+}
+
+.input1 {
+  height: 30px;
+  width: 145px;
+  background-color: #ff8400;
+  border: black 1px solid;
+}
+
+.input2 {
+  height: 30px;
+  width: 145px;
+  background-color: #ff8400;
+  border: black 1px solid;
+}
+.input3 {
+  height: 100px;
+  width: 300px;
+  background-color: #ff8400;
+  border: black 1px solid;
+}
+.submitbtn {
+  float: left;
+  padding: 5px;
+  margin-top: 10px;
+  color: white;
+  background-color: black;
+  border: none;
+}
+.label {
+  float: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+}

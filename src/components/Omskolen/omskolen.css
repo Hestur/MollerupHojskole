@@ -1,0 +1,41 @@
+.midcontent {
+  width: 800px;
+  margin: 0 auto;
+}
+.hero {
+  position: relative;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+p {
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: black;
+  font-size: 1.1rem;
+}
+.hold {
+}
+
+.holdtext {
+  line-height: 0;
+  text-decoration: underline;
+}
+
+.holdbtn img {
+  width: 20px;
+  height: 20px;
+  padding-right: 10px;
+}
+.holdbtn {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  color: white;
+  background-color: black;
+  padding: 5px;
+  width: 150px;
+}

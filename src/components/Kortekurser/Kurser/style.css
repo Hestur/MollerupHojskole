@@ -1,0 +1,18 @@
+.normaltext {
+  font-size: 1em;
+  line-height: 2;
+}
+
+.textsmall {
+  font-size: 1rem;
+  font-weight: none;
+  line-height: 1.7;
+  margin-bottom: 100px;
+}
+.herob {
+  display: flex;
+}
+
+.midcontentb {
+  display: grid;
+}

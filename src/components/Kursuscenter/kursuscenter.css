@@ -1,0 +1,17 @@
+.velkommen {
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 130px;
+}
+.velkommen img {
+  width: 200px;
+  height: 200px;
+  display: inline;
+  margin-bottom: 20px;
+  background-color: #ff8400;
+}
+.velkommen p {
+  font-size: 2rem;
+  display: inline;
+  margin-right: 50px;
+}

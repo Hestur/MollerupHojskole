@@ -1,0 +1,23 @@
+.hero img {
+  max-height: 525px;
+  width: 100%;
+  display: block;
+}
+
+.titleS {
+  font-size: 1.4rem;
+}
+
+.center {
+  text-align: center;
+}
+
+.text2 {
+  line-height: 2.3;
+}
+.text2 img {
+}
+.nonmid img {
+  max-width: 30%;
+  padding: 20px;
+}

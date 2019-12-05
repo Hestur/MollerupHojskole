@@ -1,0 +1,17 @@
+.grid2x3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 20px;
+  margin-bottom: 20px;
+}
+
+.grid2x3 img {
+  border: black 1px solid;
+  place-self: center;
+}
+.line {
+  height: 50px;
+  border-bottom: 2px solid black;
+}
